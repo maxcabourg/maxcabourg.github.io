@@ -53,12 +53,8 @@ sidebar:
 career-profile:
     title: A propos de moi
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Motivé, rigoureux, curieux et fort de 5 années d'expériences, j'ai pu travailler sur de nombreux projets sur la stack Angular / Spring Boot mais je possède aussi de l'appétence pour d'autres technologies comme NodeJS ou React.
+      J'aime me tenir au courant de l'actualité du développement web et plus particulièrement de l'écosystème Javascript. J'apprécie travailler en équipe et me nourrir des connaissances de mes camarades ainsi que partager les miennes.
 education:
     title: Formation
     info:
